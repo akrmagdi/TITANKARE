@@ -1,0 +1,368 @@
+{% schema %}
+{
+  "name": "TK- Collection Cards",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Section Layout Settings"
+    },
+    {
+      "type": "range",
+      "id": "gap_between_cards",
+      "label": "Gap Between Cards",
+      "min": 0,
+      "max": 50,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "padding_top_bottom_section",
+      "label": "Section Padding Top & Bottom",
+      "min": 0,
+      "max": 10,
+      "unit": "rem",
+      "default": 2
+    },
+    {
+      "type": "range",
+      "id": "padding_left_right_section",
+      "label": "Section Padding Left & Right",
+      "min": 0,
+      "max": 10,
+      "unit": "rem",
+      "default": 2
+    },
+    {
+      "type": "range",
+      "id": "block_height",
+      "label": "Block Height",
+      "min": 100,
+      "max": 600,
+      "unit": "px",
+      "default": 400,
+      "step": 50
+    },
+    {
+      "type": "select",
+      "id": "cards_behavior",
+      "label": "Cards Behavior",
+      "options": [
+        { "value": "extend", "label": "Extend Full Width" },
+        { "value": "no-extend", "label": "No Extend" }
+      ],
+      "default": "no-extend"
+    },
+    {
+      "type": "select",
+      "id": "mobile_columns",
+      "label": "Mobile Columns",
+      "options": [
+        { "value": "one", "label": "1 Column" },
+        { "value": "two", "label": "2 Columns" }
+      ],
+      "default": "two"
+    },
+    {
+      "type": "header",
+      "content": "Image Settings"
+    },
+    {
+      "type": "select",
+      "id": "image_fit",
+      "label": "Image Fit",
+      "options": [
+        { "value": "cover", "label": "Cover" },
+        { "value": "contain", "label": "Contain" }
+      ],
+      "default": "cover"
+    },
+    {
+      "type": "select",
+      "id": "image_position",
+      "label": "Image Position",
+      "options": [
+        { "value": "top-left", "label": "Top Left" },
+        { "value": "top-center", "label": "Top Center" },
+        { "value": "top-right", "label": "Top Right" },
+        { "value": "center-left", "label": "Center Left" },
+        { "value": "center-center", "label": "Center Center" },
+        { "value": "center-right", "label": "Center Right" },
+        { "value": "bottom-left", "label": "Bottom Left" },
+        { "value": "bottom-center", "label": "Bottom Center" },
+        { "value": "bottom-right", "label": "Bottom Right" }
+      ],
+      "default": "center-center"
+    },
+    {
+      "type": "header",
+      "content": "Text Position Settings"
+    },
+    {
+      "type": "select",
+      "id": "text_position",
+      "label": "Text Position",
+      "options": [
+        { "value": "top-left", "label": "Top Left" },
+        { "value": "top-center", "label": "Top Center" },
+        { "value": "top-right", "label": "Top Right" },
+        { "value": "center-left", "label": "Center Left" },
+        { "value": "center-center", "label": "Center Center" },
+        { "value": "center-right", "label": "Center Right" },
+        { "value": "bottom-left", "label": "Bottom Left" },
+        { "value": "bottom-center", "label": "Bottom Center" },
+        { "value": "bottom-right", "label": "Bottom Right" }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Typography and Colors"
+    },
+    {
+      "type": "range",
+      "id": "title_font_size",
+      "label": "Title Font Size",
+      "min": 1,
+      "max": 3,
+      "unit": "rem",
+      "default": 1.5,
+      "step": 0.5
+    },
+    {
+      "type": "range",
+      "id": "paragraph_font_size",
+      "label": "Paragraph Font Size",
+      "min": 1,
+      "max": 2,
+      "unit": "rem",
+      "default": 1,
+      "step": 0.5
+    },
+    {
+      "type": "color",
+      "id": "title_color",
+      "label": "Title Color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "paragraph_color",
+      "label": "Paragraph Color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "button_text_color",
+      "label": "Button Text Color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "header",
+      "content": "Button Styling"
+    },
+    {
+      "type": "range",
+      "id": "button_padding_top_bottom",
+      "label": "Button Padding Top & Bottom",
+      "min": 0,
+      "max": 10,
+      "unit": "rem",
+      "default": 1,
+      "step": 0.5
+    },
+    {
+      "type": "range",
+      "id": "button_padding_left_right",
+      "label": "Button Padding Left & Right",
+      "min": 0,
+      "max": 10,
+      "unit": "rem",
+      "default": 2,
+      "step": 0.5
+    },
+    {
+      "type": "color",
+      "id": "button_background_color",
+      "label": "Button Background Color",
+      "default": "#000000"
+    },
+    {
+      "type": "range",
+      "id": "button_border_radius",
+      "label": "Button Roundness",
+      "min": 0,
+      "max": 50,
+      "unit": "px",
+      "default": 5
+    }
+  ],
+  "blocks": [
+    {
+      "type": "card",
+      "name": "Card",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "background_image",
+          "label": "Background Image"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "textarea",
+          "id": "paragraph",
+          "label": "Paragraph"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "Button Link"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "button_text",
+          "label": "Button Text"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "TK- Collection Cards",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+
+<section class="TK-custom-cards-section" style="padding: {{ section.settings.padding_top_bottom_section }}rem {{ section.settings.padding_left_right_section }}rem;">
+  <div class="TK-cards-wrapper" style="gap: {{ section.settings.gap_between_cards }}px;">
+    {% assign total_cards = section.blocks.size %}
+    {% assign is_odd = total_cards | modulo: 2 %}
+    
+    {% for block in section.blocks %}
+      <div class="TK-card 
+        {% if section.settings.cards_behavior == 'extend' %}
+          {% if is_odd == 1 and forloop.last %}
+            TK-extend
+          {% endif %}
+        {% endif %}
+      " style="
+        background-image: url('{{ block.settings.background_image | img_url: 'master' }}'); 
+        height: {{ section.settings.block_height }}px; 
+        background-size: {{ section.settings.image_fit }}; 
+        background-position: {{ section.settings.image_position | replace: '-', ' ' }}; 
+        border-radius: {{ section.settings.card_border_radius }}px;">
+        
+        <div class="TK-card-content {{ section.settings.text_position }}">
+          <h2 style="color: {{ section.settings.title_color }}; font-size: {{ section.settings.title_font_size }}rem;">{{ block.settings.title }}</h2>
+          <p style="color: {{ section.settings.paragraph_color }}; font-size: {{ section.settings.paragraph_font_size }}rem;">{{ block.settings.paragraph }}</p>
+          <a href="{{ block.settings.button_link }}" class="TK-btn" style="
+            background-color: {{ section.settings.button_background_color }}; 
+            color: {{ section.settings.button_text_color }}; 
+            padding: {{ section.settings.button_padding_top_bottom }}rem {{ section.settings.button_padding_left_right }}rem; 
+            border-radius: {{ section.settings.button_border_radius }}px;">
+            {{ block.settings.button_text }}
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<style>
+.TK-custom-cards-section {
+  /* Section padding controlled by schema */
+}
+
+.TK-cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Default two columns */
+}
+
+.TK-card {
+  position: relative;
+  background-size: {{ section.settings.image_fit }}; /* Use schema setting */
+  background-position: {{ section.settings.image_position | replace: '-', ' ' }};
+  background-repeat: no-repeat;
+  height: {{ section.settings.block_height }}px;
+}
+
+.TK-extend {
+  grid-column: 1 / -1; /* Full width if single card */
+}
+
+.TK-card-content {
+  position: absolute;
+  padding: 16px;
+}
+
+.TK-card-content.top-left {
+  top: 10px;
+  left: 10px;
+}
+
+.TK-card-content.top-center {
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.TK-card-content.top-right {
+  top: 10px;
+  right: 10px;
+}
+
+.TK-card-content.center-left {
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+
+.TK-card-content.center-center {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.TK-card-content.center-right {
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+.TK-card-content.bottom-left {
+  bottom: 10px;
+  left: 10px;
+}
+
+.TK-card-content.bottom-center {
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.TK-card-content.bottom-right {
+  bottom: 10px;
+  right: 10px;
+}
+
+.TK-btn {
+  text-decoration: none;
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+  .TK-cards-wrapper {
+    {% if section.settings.mobile_columns == 'one' %}
+      grid-template-columns: 1fr;
+    {% else %}
+      grid-template-columns: repeat(2, 1fr);
+    {% endif %}
+  }
+}
+</style>
+
