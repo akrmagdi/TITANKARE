@@ -1,1 +1,378 @@
-{"sections":{"section_slideshow_RTEHRF":{"type":"section-slideshow","blocks":{"image_Rki6aB":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/5-sportow-ktore-warto-uprawiac-wiosna-wyprobuj-kazdy-z-nich_1.jpg","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"Performance-Driven Products for Every Sport and Adventure","richtext":"<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.<\/strong><\/p>","text_align":"align--middle-left","text_color":"text--white","link_text":"SHOP NOW","link":"","button_color":"btn--primary","button_style":"btn"}},"image_fegYAN":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"Performance-Driven Products for Every Sport and Adventure","richtext":"<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.<\/strong><\/p>","text_align":"align--middle-left","text_color":"text--white","link_text":"SHOP NOW","link":"","button_color":"btn--primary","button_style":"btn"}},"image_rNgAFb":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hayato-shin-oXend5neBr0-unsplash.jpg","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"Performance-Driven Products for Every Sport and Adventure","richtext":"<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.<\/strong><\/p>","text_align":"align--middle-left","text_color":"text--white","link_text":"SHOP NOW","link":"","button_color":"btn--primary","button_style":"btn"}}},"block_order":["image_Rki6aB","image_fegYAN","image_rNgAFb"],"settings":{"autoplay":true,"autoplay_speed":8,"preload_first_image":true,"height":"use_screen_three_quarters","color_bg":"palette--light bg--neutral","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"tk_collection_cards_zTPeGp":{"type":"TK-Collection-Cards","blocks":{"card_7DRBRG":{"type":"card","settings":{"background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","title":"Strength & Conditioning Gear","paragraph":"","button_link":"shopify:\/\/collections","button_text":"DISCOVER"}},"card_nQDzW7":{"type":"card","settings":{"background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","title":"Strength & Conditioning Gear","paragraph":"","button_link":"shopify:\/\/collections","button_text":"DISCOVER"}},"card_CyU4FG":{"type":"card","settings":{"background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","title":"Strength & Conditioning Gear","paragraph":"","button_link":"shopify:\/\/collections","button_text":"DISCOVER"}},"card_CLyYEV":{"type":"card","settings":{"background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","title":"Strength & Conditioning Gear","paragraph":"","button_link":"shopify:\/\/collections","button_text":"DISCOVER"}},"card_wj8YMQ":{"type":"card","settings":{"background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","title":"Strength & Conditioning Gear","paragraph":"","button_link":"shopify:\/\/collections","button_text":"DISCOVER"}}},"block_order":["card_7DRBRG","card_nQDzW7","card_CyU4FG","card_CLyYEV","card_wj8YMQ"],"settings":{"gap_between_cards":0,"padding_top_bottom_section":0,"padding_left_right_section":0,"block_height":250,"cards_behavior":"extend","mobile_columns":"two","image_fit":"cover","image_position":"center-center","text_position":"center-left","title_font_size":1,"paragraph_font_size":1,"title_color":"#ffffff","paragraph_color":"#ffffff","button_text_color":"#ffffff","button_padding_top_bottom":0.5,"button_padding_left_right":2,"button_background_color":"#334fb4","button_border_radius":0}},"collection_split_bPDdGK":{"type":"collection-split","custom_css":[".collection-split__products {padding: 16px !important;}"],"settings":{"collection":"","product_list":[],"image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","sticky_image_enable":false,"swap":true,"overlay_opacity":15,"overlay_color":"#000000","kicker":"Introducing","heading":"Featured products","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn","grid_large":2,"grid_small":1.2,"limit":2,"bg":"palette--light bg--accent","object_position":"center-center","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"collection_split_NwbVzy":{"type":"collection-split","custom_css":[".collection-split__products {padding: 16px !important;}"],"settings":{"collection":"","product_list":[],"image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","sticky_image_enable":false,"swap":false,"overlay_opacity":15,"overlay_color":"#000000","kicker":"Introducing","heading":"Featured products","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn","grid_large":2,"grid_small":1.2,"limit":2,"bg":"palette--light bg--accent","object_position":"center-center","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"section_collection_tabs_Y3dmY3":{"type":"section-collection-tabs","blocks":{"collection_98nb8F":{"type":"collection","settings":{"collection":"gym","title":"First collection","tab_background_image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg"}},"collection_Qa3zYt":{"type":"collection","settings":{"collection":"frontpage","title":"Second collection","tab_background_image":"shopify:\/\/shop_images\/hayato-shin-oXend5neBr0-unsplash.jpg"}}},"block_order":["collection_98nb8F","collection_Qa3zYt"],"custom_css":[],"settings":{"title":"","progress_bar":"both","grid_large":4,"grid_medium":3,"grid_mobile":1.2,"limit":6,"bg":"palette--light bg--accent","width":"wrapper","padding_top":36,"padding_bottom":36}},"section_icons_T8R3TH":{"type":"section-icons","blocks":{"icon_block_Bf7BL6":{"type":"icon_block","settings":{"icon_name":"icon-basket-return","icon_color":"#334fb4","title":"Free returns","text":"<p>Returns within 30 days receive a full refund.<\/p>","link_text":"","link_url":""}},"icon_block_nngr9Y":{"type":"icon_block","settings":{"icon_name":"icon-shipment-world","icon_color":"#334fb4","title":"Worldwide shipping","text":"<p>Ship anywhere, rates available at checkout.<\/p>","link_text":"","link_url":""}},"icon_block_BaXgFg":{"type":"icon_block","settings":{"icon_name":"icon-phone","icon_color":"#334fb4","title":"24\/7 support","text":"<p>Call us anytime at 1(800) 555-1234.<\/p>","link_text":"","link_url":""}}},"block_order":["icon_block_Bf7BL6","icon_block_nngr9Y","icon_block_BaXgFg"],"custom_css":["h2 {text-align: left; font-size: 2rem;}",".kicker-flourished:after {margin-right: auto !important; margin: 0;}"],"settings":{"title":"Why you'll love our shop","bg":"palette--light bg--accent","icons_size":80,"icon_alignment":"icon--top","layout":"grid--stacked","align_text":"text-left","width":"wrapper","padding_top":36,"padding_bottom":36}},"section_hero_tj7FPJ":{"type":"section-hero","blocks":{"heading_tDkQbx":{"type":"heading","settings":{"title":"Love the way we dive into adventure.","text_size":11}},"text_9RztJk":{"type":"text","settings":{"richtext":"<p>Join the TITANKARE community of adventurers! Share unforgettable experiences, discover new heights, and connect with like-minded explorers. Enjoy exclusive discounts, special offers, and insider content that enhances every journey. Let’s dive into adventure together!<\/p>","text_size":6}},"button_QmQrwU":{"type":"button","settings":{"link_text_1":"JOIN US","link_1":"","button_size_1":"btn--long","button_style_1":"btn","button_color_1":"btn--primary","link_text_2":"","link_2":"","button_size_2":"btn--long","button_style_2":"btn-text-thick-line","button_color_2":"btn--white","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["heading_tDkQbx","text_9RztJk","button_QmQrwU"],"settings":{"image":"shopify:\/\/shop_images\/brad-barmore-IQxcuHBF7Uo-unsplash.jpg","height":"use_screen_two_thirds","overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"preload_image":false,"content_width":2000,"text_align":"align--middle-center","text_color":"text--white","color_bg":"hero__content--transparent","width":"wrapper--none","padding_top":0,"padding_bottom":0}}},"order":["section_slideshow_RTEHRF","tk_collection_cards_zTPeGp","collection_split_bPDdGK","collection_split_NwbVzy","section_collection_tabs_Y3dmY3","section_icons_T8R3TH","section_hero_tj7FPJ"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "section_slideshow_RTEHRF": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_Rki6aB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5-sportow-ktore-warto-uprawiac-wiosna-wyprobuj-kazdy-z-nich_1.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "Performance-Driven Products for Every Sport and Adventure",
+            "richtext": "<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.</strong></p>",
+            "text_align": "align--middle-left",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        },
+        "image_fegYAN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "Performance-Driven Products for Every Sport and Adventure",
+            "richtext": "<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.</strong></p>",
+            "text_align": "align--middle-left",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        },
+        "image_rNgAFb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hayato-shin-oXend5neBr0-unsplash.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "Performance-Driven Products for Every Sport and Adventure",
+            "richtext": "<p><strong>Explore our range of innovative products, from fitness wear to essential accessories, designed to power your active lifestyle.</strong></p>",
+            "text_align": "align--middle-left",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": ["image_Rki6aB", "image_fegYAN", "image_rNgAFb"],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "preload_first_image": true,
+        "height": "use_screen_three_quarters",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "tk_collection_cards_zTPeGp": {
+      "type": "TK-Collection-Cards",
+      "blocks": {
+        "card_7DRBRG": {
+          "type": "card",
+          "settings": {
+            "background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "title": "Strength & Conditioning Gear",
+            "paragraph": "",
+            "button_link": "shopify://collections",
+            "button_text": "DISCOVER"
+          }
+        },
+        "card_nQDzW7": {
+          "type": "card",
+          "settings": {
+            "background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "title": "Strength & Conditioning Gear",
+            "paragraph": "",
+            "button_link": "shopify://collections",
+            "button_text": "DISCOVER"
+          }
+        },
+        "card_CyU4FG": {
+          "type": "card",
+          "settings": {
+            "background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "title": "Strength & Conditioning Gear",
+            "paragraph": "",
+            "button_link": "shopify://collections",
+            "button_text": "DISCOVER"
+          }
+        },
+        "card_CLyYEV": {
+          "type": "card",
+          "settings": {
+            "background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "title": "Strength & Conditioning Gear",
+            "paragraph": "",
+            "button_link": "shopify://collections",
+            "button_text": "DISCOVER"
+          }
+        },
+        "card_wj8YMQ": {
+          "type": "card",
+          "settings": {
+            "background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+            "title": "Strength & Conditioning Gear",
+            "paragraph": "",
+            "button_link": "shopify://collections",
+            "button_text": "DISCOVER"
+          }
+        }
+      },
+      "block_order": [
+        "card_7DRBRG",
+        "card_nQDzW7",
+        "card_CyU4FG",
+        "card_CLyYEV",
+        "card_wj8YMQ"
+      ],
+      "settings": {
+        "gap_between_cards": 0,
+        "padding_top_bottom_section": 0,
+        "padding_left_right_section": 0,
+        "block_height": 250,
+        "cards_behavior": "extend",
+        "mobile_columns": "two",
+        "image_fit": "cover",
+        "image_position": "center-center",
+        "text_position": "center-left",
+        "title_font_size": 1,
+        "paragraph_font_size": 1,
+        "title_color": "#ffffff",
+        "paragraph_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "button_padding_top_bottom": 0.5,
+        "button_padding_left_right": 2,
+        "button_background_color": "#334fb4",
+        "button_border_radius": 0
+      }
+    },
+    "collection_split_bPDdGK": {
+      "type": "collection-split",
+      "custom_css": [".collection-split__products {padding: 16px !important;}"],
+      "settings": {
+        "collection": "",
+        "product_list": [],
+        "image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+        "sticky_image_enable": false,
+        "swap": true,
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "Introducing",
+        "heading": "Featured products",
+        "text_color": "text--white",
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn",
+        "grid_large": 2,
+        "grid_small": 1.2,
+        "limit": 2,
+        "bg": "palette--light bg--accent",
+        "object_position": "center-center",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_split_NwbVzy": {
+      "type": "collection-split",
+      "custom_css": [".collection-split__products {padding: 16px !important;}"],
+      "settings": {
+        "collection": "",
+        "product_list": [],
+        "image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+        "sticky_image_enable": false,
+        "swap": false,
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "Introducing",
+        "heading": "Featured products",
+        "text_color": "text--white",
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn",
+        "grid_large": 2,
+        "grid_small": 1.2,
+        "limit": 2,
+        "bg": "palette--light bg--accent",
+        "object_position": "center-center",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_tabs_Y3dmY3": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "collection_98nb8F": {
+          "type": "collection",
+          "settings": {
+            "collection": "gym",
+            "title": "First collection",
+            "tab_background_image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg"
+          }
+        },
+        "collection_Qa3zYt": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "title": "Second collection",
+            "tab_background_image": "shopify://shop_images/hayato-shin-oXend5neBr0-unsplash.jpg"
+          }
+        }
+      },
+      "block_order": ["collection_98nb8F", "collection_Qa3zYt"],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "progress_bar": "both",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "limit": 6,
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_icons_T8R3TH": {
+      "type": "section-icons",
+      "blocks": {
+        "icon_block_Bf7BL6": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#334fb4",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_nngr9Y": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#334fb4",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_BaXgFg": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#334fb4",
+            "title": "24/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_block_Bf7BL6",
+        "icon_block_nngr9Y",
+        "icon_block_BaXgFg"
+      ],
+      "custom_css": [
+        "h2 {text-align: left; font-size: 2rem;}",
+        ".kicker-flourished:after {margin-right: auto !important; margin: 0;}"
+      ],
+      "settings": {
+        "title": "Why you'll love our shop",
+        "bg": "palette--light bg--accent",
+        "icons_size": 80,
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_hero_tj7FPJ": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_tDkQbx": {
+          "type": "heading",
+          "settings": {
+            "title": "Love the way we dive into adventure.",
+            "text_size": 11
+          }
+        },
+        "text_9RztJk": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Join the TITANKARE community of adventurers! Share unforgettable experiences, discover new heights, and connect with like-minded explorers. Enjoy exclusive discounts, special offers, and insider content that enhances every journey. Let’s dive into adventure together!</p>",
+            "text_size": 6
+          }
+        },
+        "button_QmQrwU": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "JOIN US",
+            "link_1": "",
+            "button_size_1": "btn--long",
+            "button_style_1": "btn",
+            "button_color_1": "btn--primary",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": ["heading_tDkQbx", "text_9RztJk", "button_QmQrwU"],
+      "settings": {
+        "image": "shopify://shop_images/brad-barmore-IQxcuHBF7Uo-unsplash.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "section_slideshow_RTEHRF",
+    "tk_collection_cards_zTPeGp",
+    "collection_split_bPDdGK",
+    "collection_split_NwbVzy",
+    "section_collection_tabs_Y3dmY3",
+    "section_icons_T8R3TH",
+    "section_hero_tj7FPJ"
+  ]
+}
