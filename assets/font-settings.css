@@ -1,0 +1,72 @@
+
+
+
+@font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=4b92d327501982bb1da5abc3101bc6952c2fcfb49d4ced3566f5d4ef78a713d3") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=7bb8a29b18466b92501bdb4d6f8c15e2ccd9c01b6ed50246ab47148378346ed6") format("woff");
+}
+
+@font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=5b5cf791e8bdaa23abccc4549eebe268b36d7d5d6e36e59a29d8bd9357ce9818") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=8fd554ccc5f2c78293b65f7be7d5eb33b0bb6bec34fa74a19182a6352658501b") format("woff");
+}
+
+@font-face {
+  font-family: Assistant;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n6.839c78d596129444922cad85799f3e4bffc9fc19.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=bf5471b504a4e9a1abb49633f8c48fa4568e594b62ecb996278067c5b404eef6") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n6.7fe336638212d1ced72174e8532df00dbc2738e5.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=720aab04cd60d81c4368c30cbae7b0a005e23e236979e933b817f554e7a6df4e") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Assistant;
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n8.268b943b0748586aef4cc0b6aeb8b8341e8d1989.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=d43f362fdde4ab9552929b5225179e7a55e479aa7f9476a99a45c2c8ab7d4cf2") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n8.59a97e7505b1d529b1d86eff173bd0f4e5b2e9f9.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=5c10696fd023d5f564a422051320e95586b5e571cf4f1c2f7c8d769e8e4d7ae1") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=4b92d327501982bb1da5abc3101bc6952c2fcfb49d4ced3566f5d4ef78a713d3") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=7bb8a29b18466b92501bdb4d6f8c15e2ccd9c01b6ed50246ab47148378346ed6") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Assistant;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n6.839c78d596129444922cad85799f3e4bffc9fc19.woff2?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=bf5471b504a4e9a1abb49633f8c48fa4568e594b62ecb996278067c5b404eef6") format("woff2"),
+       url("//akr-motion-experiment-lab.myshopify.com/cdn/fonts/assistant/assistant_n6.7fe336638212d1ced72174e8532df00dbc2738e5.woff?h1=YWtyLW1vdGlvbi1leHBlcmltZW50LWxhYi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=720aab04cd60d81c4368c30cbae7b0a005e23e236979e933b817f554e7a6df4e") format("woff");
+}
+
+
+
+
+
+
+
+
